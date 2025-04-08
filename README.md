@@ -1,9 +1,3 @@
-
-<a href="https://www.youtube.com/watch?v=BW2H0es4s58&list=PL67b5wgxuUtAP2ckCBi-ryBaZnRZi2nTj&index=6" target="_blank">
-  <img src="./images/thumbnail.png" alt="Thumbnail"/>
-</a>
-
-
 ---
 ## Introduction: 
 #### 🔥 Build an AI Landing Page with HTML, CSS & JavaScript | Modern UI, Animations & Parallax Effects!
@@ -19,11 +13,3 @@
 #### ✅ High-quality UI with gradient borders & hover effects 🎨
 #### ✅ Optimized sign-up page with smooth animations 📝
 
-#### This tutorial is perfect for beginners & advanced developers who want to build eye-catching, interactive websites. Whether you're designing a startup, an AI product, or just want to level up your web skills—this video is for you! 🎯
-
-
----
-## Watch the full tutorial on YouTub
-<a href="https://www.youtube.com/watch?v=BW2H0es4s58&list=PL67b5wgxuUtAP2ckCBi-ryBaZnRZi2nTj&index=6">
-  <img src="./images/youtube.png" alt="youtube"/>
-</a>
